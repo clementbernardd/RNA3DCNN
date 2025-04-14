@@ -1,4 +1,4 @@
-from Bio.PDB.Vector import Vector
+from Bio.PDB.vectors import Vector
 import numpy as np
 
 """ pixelate each residue and its neighbors """
